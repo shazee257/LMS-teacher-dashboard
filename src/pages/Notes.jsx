@@ -54,19 +54,12 @@ const Notes = () => {
             <div className="action">
               <BsThreeDots className="three_dots_icon" />
               <div className="edit_delete_div_wrapper">
-                <div> <TbEdit className="edit_icon"/><span>Edit</span></div>
+                <div> <TbEdit className="edit_icon" /><span>Edit</span></div>
                 <div><AiTwotoneDelete className="delete_icon" /> <span>Delete</span></div>
               </div>
             </div>
           </div>
-
-
-
-
-
-
         </div>
-
       </div>
     </div>
   )
